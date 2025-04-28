@@ -1,0 +1,6 @@
+# Indica que esta é a configuração raiz para o EditorConfig
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
